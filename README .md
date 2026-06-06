@@ -15,13 +15,52 @@
 <br/>
 
 <!-- Badges Row -->
-[![Visits](https://komarev.com/ghpvc/?username=starwin&style=for-the-badge&color=302b63&labelColor=0f0c29&label=PROFILE+VIEWS)](https://github.com/starwin)
+[![Visits](https://komarev.com/ghpvc/?username=sfstarwin-dotcom&style=for-the-badge&color=302b63&labelColor=0f0c29&label=PROFILE+VIEWS)](https://github.com/sfstarwin-dotcom)
 ![Status](https://img.shields.io/badge/Status-Building_Things-00f5d4?style=for-the-badge&labelColor=0f0c29)
 ![Open To](https://img.shields.io/badge/Open_To-Collabs_&_Chaos-a78bfa?style=for-the-badge&labelColor=0f0c29)
 
 </div>
 
 ---
+
+## ⚡ `whoami`
+
+```bash
+$ cat /etc/starwin/profile.conf
+
+[identity]
+  name        = Starwin
+  role        = Embedded Systems Engineer & IoT Builder
+  location    = Coimbatore, Tamil Nadu 🇮🇳
+  education   = Final Year ECE Student
+  
+[philosophy]
+  driven_by   = Curiosity and Purpose
+  belief      = "If you understand the hardware, you understand everything."
+  
+[current_state]
+  building    = Systems that talk to the real world
+  learning    = Always. That's not a setting, that's a state.
+  mood        = ⚡ Electrified
+```
+
+---
+
+## 🔧 What I Build
+
+<div align="center">
+
+| 🛠️ Domain | 💡 What I Do |
+|---|---|
+| **Embedded Systems** | Firmware, microcontrollers, bare-metal programming |
+| **IoT** | Connected devices, sensor networks, edge computing |
+| **Low-Level Code** | C/C++, memory management, hardware drivers |
+| **Systems Design** | Architecture that runs on 32KB of RAM and *still* wins |
+
+</div>
+
+---
+
 ## 🧰 Tech Stack & Tools
 
 <div align="center">
@@ -55,6 +94,7 @@
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GDB](https://img.shields.io/badge/GDB_Debugger-FF0000?style=for-the-badge)
 ![Oscilloscope](https://img.shields.io/badge/Oscilloscope-00f5d4?style=for-the-badge&labelColor=0f0c29)
 
@@ -62,56 +102,18 @@
 
 ---
 
-## ⚡ `whoami`
-
-```bash
-$ cat /etc/starwin/profile.conf
-
-[identity]
-  name        = Starwin
-  role        = Embedded Systems Engineer & IoT Builder
-  
-  
-[philosophy]
-  driven_by   = Curiosity and Purpose
-  belief      = "If you understand the hardware, you understand everything."
-  
-[current_state]
-  building    = Systems that talk to the real world
-  learning    = Always. That's not a setting, that's a state.
-  mood        = ⚡ Electrified
-```
-
----
-
-## 🔧 What I Build
-
-<div align="center">
-
-| 🛠️ Domain | 💡 What I Do |
-|---|---|
-| **Embedded Systems** | Firmware, microcontrollers, bare-metal programming |
-| **IoT** | Connected devices, sensor networks, edge computing |
-| **Low-Level Code** | C/C++, memory management, hardware drivers |
-| **Systems Design** | Architecture that runs on 32KB of RAM and *still* wins |
-
-</div>
-
----
-
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=starwin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=302b63&title_color=00f5d4&icon_color=a78bfa&text_color=ffffff&bg_color=0f0c29"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starwin&layout=compact&langs_count=8&theme=tokyonight&border_color=302b63&title_color=00f5d4&text_color=ffffff&bg_color=0f0c29"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sfstarwin-dotcom&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=302b63&title_color=00f5d4&icon_color=a78bfa&text_color=ffffff&bg_color=0f0c29"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sfstarwin-dotcom&layout=compact&langs_count=8&theme=tokyonight&border_color=302b63&title_color=00f5d4&text_color=ffffff&bg_color=0f0c29"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=starwin&theme=tokyonight&border=302b63&ring=00f5d4&fire=a78bfa&currStreakLabel=00f5d4&background=0f0c29" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sfstarwin-dotcom&theme=tokyonight&border=302b63&ring=00f5d4&fire=a78bfa&currStreakLabel=00f5d4&background=0f0c29" />
 
 </div>
 
@@ -121,7 +123,7 @@ $ cat /etc/starwin/profile.conf
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=starwin&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=sfstarwin-dotcom&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7" />
 
 </div>
 
@@ -131,7 +133,7 @@ $ cat /etc/starwin/profile.conf
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=starwin&bg_color=0f0c29&color=a78bfa&line=00f5d4&point=ffffff&area=true&area_color=302b63&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sfstarwin-dotcom&bg_color=0f0c29&color=a78bfa&line=00f5d4&point=ffffff&area=true&area_color=302b63&hide_border=true" />
 
 </div>
 
@@ -151,9 +153,10 @@ $ cat /etc/starwin/profile.conf
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/starwin-sf-8a8847300/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](sfstarwin@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sfstarwin-dotcom)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/starwin)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sfstarwin@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00f5d4?style=for-the-badge&logo=vercel&logoColor=black)](https://sfstarwin-dotcom.github.io)
 
 </div>
 
