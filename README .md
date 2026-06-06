@@ -22,44 +22,6 @@
 </div>
 
 ---
-
-## ⚡ `whoami`
-
-```bash
-$ cat /etc/starwin/profile.conf
-
-[identity]
-  name        = Starwin
-  role        = Embedded Systems Engineer & IoT Builder
-  location    = Earth (currently)
-  
-[philosophy]
-  driven_by   = Curiosity and Purpose
-  belief      = "If you understand the hardware, you understand everything."
-  
-[current_state]
-  building    = Systems that talk to the real world
-  learning    = Always. That's not a setting, that's a state.
-  mood        = ⚡ Electrified
-```
-
----
-
-## 🔧 What I Build
-
-<div align="center">
-
-| 🛠️ Domain | 💡 What I Do |
-|---|---|
-| **Embedded Systems** | Firmware, microcontrollers, bare-metal programming |
-| **IoT** | Connected devices, sensor networks, edge computing |
-| **Low-Level Code** | C/C++, memory management, hardware drivers |
-| **Systems Design** | Architecture that runs on 32KB of RAM and *still* wins |
-
-</div>
-
----
-
 ## 🧰 Tech Stack & Tools
 
 <div align="center">
@@ -93,13 +55,50 @@ $ cat /etc/starwin/profile.conf
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GDB](https://img.shields.io/badge/GDB_Debugger-FF0000?style=for-the-badge)
 ![Oscilloscope](https://img.shields.io/badge/Oscilloscope-00f5d4?style=for-the-badge&labelColor=0f0c29)
 
 </div>
 
 ---
+
+## ⚡ `whoami`
+
+```bash
+$ cat /etc/starwin/profile.conf
+
+[identity]
+  name        = Starwin
+  role        = Embedded Systems Engineer & IoT Builder
+  
+  
+[philosophy]
+  driven_by   = Curiosity and Purpose
+  belief      = "If you understand the hardware, you understand everything."
+  
+[current_state]
+  building    = Systems that talk to the real world
+  learning    = Always. That's not a setting, that's a state.
+  mood        = ⚡ Electrified
+```
+
+---
+
+## 🔧 What I Build
+
+<div align="center">
+
+| 🛠️ Domain | 💡 What I Do |
+|---|---|
+| **Embedded Systems** | Firmware, microcontrollers, bare-metal programming |
+| **IoT** | Connected devices, sensor networks, edge computing |
+| **Low-Level Code** | C/C++, memory management, hardware drivers |
+| **Systems Design** | Architecture that runs on 32KB of RAM and *still* wins |
+
+</div>
+
+---
+
 
 ## 📊 GitHub Stats
 
@@ -152,10 +151,9 @@ $ cat /etc/starwin/profile.conf
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/starwin)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/starwin)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:starwin@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00f5d4?style=for-the-badge&logo=vercel&logoColor=black)](https://starwin.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/starwin-sf-8a8847300/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](sfstarwin@gmail.com)
+
 
 </div>
 
